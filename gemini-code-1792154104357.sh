@@ -1,2 +1,0 @@
-mkdir hispanic_heritage_app
-cd hispanic_heritage_app
